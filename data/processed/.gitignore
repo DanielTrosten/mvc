@@ -1,0 +1,6 @@
+*
+!.gitignore
+!rgbd.npz
+!voc.npz
+!blobs_overlap.npz
+!blobs_overlap_5.npz

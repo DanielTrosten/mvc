@@ -1,0 +1,17 @@
+torch
+torchvision
+tqdm
+numpy
+scipy
+scikit-learn
+pandas
+pydantic
+opencv-python
+pyyaml
+tabulate
+tensorboard
+numba
+typing_extensions
+wandb
+plotly
+h5py

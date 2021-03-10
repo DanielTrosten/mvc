@@ -1,0 +1,7 @@
+name: mvc
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.8
+  - pip
