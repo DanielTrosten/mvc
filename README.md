@@ -3,7 +3,17 @@
 This repository provides the implementations of SiMVC and CoMVC, presented in the paper:
 
 "Reconsidering Representation Alignment for Multi-view Clustering" by
-Daniel J. Trosten, Sigurd Løkse, Robert Jenssen and Michael Kampffmeyer, in _CVPR 2021_. 
+Daniel J. Trosten, Sigurd Løkse, Robert Jenssen and Michael Kampffmeyer, in _CVPR 2021_.
+
+BibTeX:
+```text
+@inproceedings{trostenMVC,
+  title        = {Reconsidering Representation Alignment for Multi-view Clustering},
+  author       = {Daniel J. Trosten and Sigurd Løkse and Robert Jenssen and Michael Kampffmeyer},
+  year         = 2021,
+  booktitle    = {2021 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)}
+}
+```
 
 
 ## Installation
