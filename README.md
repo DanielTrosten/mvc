@@ -87,7 +87,7 @@ dataset_config=Dataset("<custom_dataset_name>")
 
 ## Experiment configuration
 Experiment configs are nested configuration objects, where the top-level config is an instance of 
-`config.defaults.Experiments`. 
+`config.defaults.Experiment`. 
 
 The configuration object for the contrastive model on E-MNIST, for instance, looks like this:
 ```Python
